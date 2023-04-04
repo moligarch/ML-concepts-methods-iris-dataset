@@ -1,14 +1,16 @@
 # Introduction
-First of all: Hello Every one!
+First of all: Hello Everyone!
 
-My name is Moein Verkiani but You will know me as @Moligarch or **Kian**!
-in this file we are going to do some hands-on ML exercise on IRIS dataset in order to learn more and practice what we learnt.
+My name is Moein Verkiani but You're going to know me as **Moligarch** or if you are Persian, I'm **Kian**!
+in this file we are going to do some hands-on ML exercise on IRIS dataset.
+It's good to know [What is Overfitting and how to avoid it?](overfitting.md) after finishing these practices.
 
-First of all, let's prepare our environment for further operation:
 
-+ import libraries
-+ modifie environment variable
-+ define dataset
+Now, let's prepare our environment for further operations:
+
++ Import libraries
++ Modify environment variable
++ Define dataset
 
 
 ```python
